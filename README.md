@@ -59,7 +59,7 @@
 <!-- Social Badges with animation (colored badges with shine) -->
 <h3 align="center">🌐 Connect with me</h3>
 <div align="center">
-  <a href="https://linkedin.com/in/govindmukhiya23" target="_blank">
+  <a href="https://www.linkedin.com/in/m-govind-mukhiya-453a59302/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000000" />
   </a>
   <a href="mailto:govindmukhiya23@gmail.com" target="_blank">
