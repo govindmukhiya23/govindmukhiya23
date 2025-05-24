@@ -110,11 +110,9 @@
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=govindmukhiya23&bg_color=0D1117&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true&custom_title=Contribution%20Graph" />
 
 <!-- Snake Animation -->
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/govindmukhiya23/govindmukhiya23/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/govindmukhiya23/govindmukhiya23/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/govindmukhiya23/govindmukhiya23/output/github-contribution-grid-snake.svg">
-</picture>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake-dark.svg" />
+</div>
 
 </div>
 
