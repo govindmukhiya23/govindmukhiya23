@@ -1,11 +1,8 @@
----
-
 <!-- Visitor Counter -->
-<h3 align="center">👀 Visitor Count</h3>
+<h3 align="center">👀 Profile Views</h3>
 <div align="center">
-  <img src="https://visitor-badge.glitch.me/badge?page_id=govindmukhiya23.govindmukhiya23" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=govindmukhiya23&style=flat-square" alt="Profile Views" />
 </div>
-
 
 <!-- Hero Banner with Animated GIF -->
 <div align="center">
@@ -71,7 +68,6 @@
   <a href="https://instagram.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
   </a>
- 
 </div>
 
 ---
