@@ -65,7 +65,7 @@
   <a href="mailto:govindmukhiya23@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://instagram.com/yourhandle" target="_blank">
+  <a href="https://instagram.com/i.govinduu" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
   </a>
 </div>
