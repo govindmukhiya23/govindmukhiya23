@@ -1,3 +1,12 @@
+---
+
+<!-- Visitor Counter -->
+<h3 align="center">👀 Visitor Count</h3>
+<div align="center">
+  <img src="https://visitor-badge.glitch.me/badge?page_id=govindmukhiya23.govindmukhiya23" alt="Visitor Count" />
+</div>
+
+
 <!-- Hero Banner with Animated GIF -->
 <div align="center">
   <img src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" width="320" alt="Animated programmer" />
@@ -62,9 +71,7 @@
   <a href="https://instagram.com/yourhandle" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white&labelColor=000000" />
   </a>
-  <a href="https://youtube.com/@yourchannel" target="_blank">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=000000" />
-  </a>
+ 
 </div>
 
 ---
